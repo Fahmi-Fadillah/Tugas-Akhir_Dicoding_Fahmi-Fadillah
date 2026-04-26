@@ -50,7 +50,7 @@ Jaya Jaya Institute adalah sebuah lembaga pendidikan tinggi yang telah berdiri s
 
 [Jaya Jaya Institute Students Dashboard](https://public.tableau.com/views/JayaJayaInstituteStudentsDashboard_17770126663650/Dropout?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 'Tableau Public - Jaya Jaya Institute Students Dashboard'), dirancang secara optimal untuk menyediakan insight bagi para pengajar dan pihak internal institusi mengenai tingkat siswa dropout yang mencapai lebih dari 30%. Dashboard ini juga dibuat dengan visualisasi dan pilihan warna yang ramah bagi individu dengan gangguan penglihatan warna (color blind) untuk meningkatkan aksesibilitas inklusif.
 
-![Jaya Jaya Maju Employees Dashboard](https://github.com/user-attachments/assets/cc514db7-03a7-4905-916d-ef707c0738dc 'Jaya Jaya Institute Students Dashboard')
+![Jaya Jaya Maju Employees Dashboard](https://github.com/Fahmi-Fadillah/Tugas-Akhir_Dicoding_Fahmi-Fadillah/blob/main/fahmi%20fadillah_dashboard.png 'Jaya Jaya Institute Students Dashboard')
 
 Pada dashboard ini, terdapat 3 bagian, sisi kiri adalah pie chart tentang summary data siswa, sisi tengah adalah scatter plot tentang persebaran data siswa, dan sisi kanan adalah data numerik, bar chart faktor dropout mahasiswa, serta filter/legends dari plot dashboard ini.
 
